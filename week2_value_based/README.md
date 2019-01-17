@@ -14,7 +14,7 @@
   * Slides [part1](https://yadi.sk/i/3PM9zCP33J3ub3) (intro), [part2](https://yadi.sk/i/M03xvZ2y3JMQre) (pomdp)
   * [Lecture](https://yadi.sk/i/lOAUu7o13JBHFz) & [seminar](https://yadi.sk/i/bkmjEZrk3JBHGF)
 * Monte-carlo tree search
-  *  Udacity video on monte-carlo tree search (first part of a chain) - [video](https://www.youtube.com/watch?v=onBYsen2_eA)
+  * Udacity video on monte-carlo tree search (first part of a chain) - [video](https://www.youtube.com/watch?v=onBYsen2_eA)
   * Reminder: UCB-1 - [slides](https://www.cs.bham.ac.uk/internal/courses/robotics/lectures/ucb1.pdf)
   * Monte-carlo tree search step-by-step by J.Levine - [video](https://www.youtube.com/watch?v=UXW2yZndl7U)
   * Guide to MCTS (monte-carlo tree search) - [post](http://www.cameronius.com/research/mcts/about/index.html)
